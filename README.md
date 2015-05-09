@@ -19,7 +19,7 @@ Attachez-vous à lire/décrypter/comprendre le fichier adserver.rb (fichier prin
 
 ### Quelques questions pour creuser
 
-#### Sur l'application en elle-meme
+#### Sur l'application en elle-meme (http://www.sinatrarb.com/intro-fr.html )
  - Pourquoi il y a t il autant de 'require' en début de fichier
  - Qu'est-ce qu'une dépendance ?
  - Combien y'a-t-il d'objet dans cette application ? comment les reconnait-on
@@ -30,7 +30,7 @@ Attachez-vous à lire/décrypter/comprendre le fichier adserver.rb (fichier prin
  - Ou sont les pages web, comment les appelent-t-on ?
  - A quoi sert le fichier layout.erb dans le dossier views ?
 
-#### Sur la bases de données
+#### Sur la bases de données (http://datamapper.org/why.html )
  - Qu'est-ce que DataMapper, quel rapprochement avec ActiveRecord peut-on faire ?
  - Qu'est-ce qu'une migration ? Quelle lien fait-elle avec la base de donnée
  - Dans quel fichier devrait etre inscrit la base de données, si jamais dataMapper fonctionnerait.

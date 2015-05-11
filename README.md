@@ -32,6 +32,7 @@ Attachez-vous à lire/décrypter/comprendre le fichier adserver.rb (fichier prin
 
 #### Sur la bases de données
  - Qu'est-ce que DataMapper, quel rapprochement avec ActiveRecord peut-on faire ?
+   [Introduction à DataMapper](http://code.tutsplus.com/tutorials/ruby-for-newbies-working-with-datamapper--net-19622)
  - Qu'est-ce qu'une migration ? Quelle lien fait-elle avec la base de donnée
  - Dans quel fichier devrait etre inscrit la base de données, si jamais dataMapper fonctionnerait.
 
